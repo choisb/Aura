@@ -1,6 +1,15 @@
 {
   "Bookmarks": [],
   "Recents": [
+    "C:\\dev\\Aura\\Source\\Aura\\Private\\Character\\AuraCharacterBase.cpp",
+    "C:\\dev\\Aura\\Source\\Aura\\Public\\Character\\AuraCharacterBase.h",
+    "C:\\dev\\Unreal\\UE_5.3\\Engine\\Source\\Runtime\\CoreUObject\\Public\\UObject\\ObjectHandle.h",
+    "C:\\dev\\Unreal\\UE_5.3\\Engine\\Source\\Runtime\\CoreUObject\\Private\\UObject\\ObjectHandleIndex.cpp",
+    "C:\\dev\\Unreal\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+    "C:\\dev\\Unreal\\UE_5.3\\Engine\\Source\\Runtime\\CoreUObject\\Public\\UObject\\ObjectPtr.h",
+    "C:\\dev\\Unreal\\UE_5.3\\Engine\\Source\\Runtime\\Core\\Public\\HAL\\Platform.h",
+    "C:\\dev\\Unreal\\UE_5.3\\Engine\\Source\\Runtime\\Core\\Public\\GenericPlatform\\GenericPlatform.h",
+    "C:\\dev\\Aura\\Source\\Aura\\Private\\Character\\AuraEnemy.cpp",
     "C:\\dev\\Aura\\Source\\Aura\\Private\\Character\\AuraCharacterBase.cpp"
   ]
 }
